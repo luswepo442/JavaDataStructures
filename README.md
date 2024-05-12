@@ -77,13 +77,13 @@ To build a word list using command-line arguments:
 
 ### Sample Input Files
 
-In this repository, you will find several sample input files that you can use:
+In this repository, you will find 3 sample input files that you can use:
 
 - `bible-complete.txt`
 - `bible-complete10.txt`
 - `bible-psalms.txt`
 
-These files contain text from various Bible verses. Feel free to use them as input files when testing the application.
+Feel free to use them as input files when testing the application.
 
 ### Important Notes
 
