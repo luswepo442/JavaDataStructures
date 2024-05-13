@@ -4,7 +4,7 @@ import java.util.*;
 /**
  * WordListMain2 class handles the creation of a word list based on the type of data structure selected.
  * This class reads a text file, extracts verses, and adds words to the selected word list data structure.
- * @author Luswepo Daniel Sinyinza
+ * @author TMyatt, modified by Luswepo Daniel Sinyinza
  * @version 5
  */
 public class WordListMain2 {
