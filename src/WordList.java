@@ -4,7 +4,7 @@
  * WordLinkedList, and WordHashMap.  This superclass
  * maintains a list of words and their counts.
  * 
- * @author Luswepo Daniel Sinyinza
+ * @author TMyatt, modified by Luswepo Daniel Sinyinza
  * @version 1
  * 
  */
