@@ -4,7 +4,7 @@ import java.util.ArrayList;
  * Description: The implementation of WordList
  * using the Java build-in ArrayList dynamic arrays.
  * 
- * @author Luswepo Daniel Sinyinza 
+ * @author TMyatt, modified by Luswepo Daniel Sinyinza
  * @version 2
  */
 public class WordArrayList extends WordList {
