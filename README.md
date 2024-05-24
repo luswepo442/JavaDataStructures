@@ -1,4 +1,4 @@
-## Word List Builder
+## Word List Builder Instructions
 
 This repository contains Java code for building and displaying word lists based on specified input files, data structure types, and maximum word frequencies.
 
